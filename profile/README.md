@@ -10,7 +10,8 @@
   <a href="https://pinecomputer.io">Website</a> ·
   <a href="https://console.pinecomputer.io/docs">Developer docs</a> ·
   <a href="https://pinecomputer.io/use-cases/">Use cases</a> ·
-  <a href="https://x.com/pine_computer">X</a>
+  <a href="https://x.com/pine_computer">X</a> ·
+  <a href="https://discord.gg/gVawMHNde">Discord</a>
 </p>
 
 ---
@@ -38,4 +39,4 @@ Explore the [developer documentation](https://console.pinecomputer.io/docs), rea
 
 ---
 
-Built by Pine AI · [Follow @pine_computer](https://x.com/pine_computer)
+Built by Pine AI · [Follow @pine_computer](https://x.com/pine_computer) · [Join our Discord](https://discord.gg/gVawMHNde)
