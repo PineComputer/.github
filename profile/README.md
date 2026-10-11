@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://pinecomputer.io"><img src="https://pinecomputer.io/_astro/icon-512.Bjxj4GMu.png" alt="Pine Computer" width="80" height="80"></a>
+  <a href="https://pinecomputer.io"><img src="https://pbs.twimg.com/profile_images/2108438399107694592/qfY5jvZP_400x400.jpg" alt="Pine Computer" width="80" height="80"></a>
 </p>
 
 <h1 align="center">A computer built for AI.</h1>
